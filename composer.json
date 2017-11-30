@@ -1,0 +1,17 @@
+{
+  "name": "takeoo/zend-monolog",
+  "description": "Monolog logger wrapper for zend framework",
+  "type": "project",
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "zend-monolog",
+    "logger",
+    "monolog"
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": "^5.6 || ^7.0",
+    "monolog/monolog": "1.23.0"
+  }
+}
